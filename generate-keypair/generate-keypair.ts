@@ -1,4 +1,4 @@
-// Code to generate a key pair and pring the secret and the public key.
+// Code to generate a key pair and print the secret and the public key.
 
 // import { Keypair } from "@solana/web3.js";
 
