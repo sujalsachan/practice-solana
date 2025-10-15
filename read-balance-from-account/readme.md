@@ -2,7 +2,7 @@
 
 In read.ts we will connect to solana network and print the balance of that account in the terminal.
 
-## Steps
+## Steps to run
 
 1. Install dependencies ->  npm install typescript @solana/web3.js@1 esrun
 
