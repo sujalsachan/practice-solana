@@ -4,6 +4,7 @@
     "@solana/web3.js": "^1.98.4",
     "@types/prompt-sync": "^4.2.3",
     "dotenv": "^17.2.3",
-    "prompt-sync": "^4.2.0"
+    "prompt-sync": "^4.2.0",
+    "punycode": "^2.3.1"
   }
 }
